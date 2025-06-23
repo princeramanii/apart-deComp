@@ -179,9 +179,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏆 Hackathon Team
 
-- **Yash Ramani** - IIT Delhi (Lead Developer)
-- **Prince Ramani** - IIT Delhi (ML Engineer) 
-- **Hisham Hanif** - UNC Chapel Hill (Research Scientist)
+- **Yash Ramani** - IIT Delhi 
+- **Prince Ramani** - IIT Delhi  
+- **Hisham Hanif** - UNC Chapel Hill 
 
 ## 🙏 Acknowledgments
 
@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/decomp-router/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/decomp-router/discussions)
-- **Email**: team@decomprouter.dev
+- **Email**: ee3230755@gmail.com
 
 ---
 
