@@ -1,0 +1,20 @@
+# Include main requirements
+-r requirements.txt
+
+# Development-specific
+pre-commit>=2.20.0
+jupyter-lab>=3.4.0
+notebook>=6.4.0
+
+# Profiling and debugging
+line_profiler>=3.5.0
+memory_profiler>=0.60.0
+py-spy>=0.3.0
+
+# Advanced testing
+hypothesis>=6.50.0
+factory_boy>=3.2.0
+
+# Code quality
+bandit>=1.7.0
+safety>=2.0.0
